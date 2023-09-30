@@ -1,6 +1,6 @@
 public class NestingConditionals {
     public static void main(String[] args) {
-        int hour24Format = ; //13 hours is equivalent to 1 P.M.
+        int hour24Format = 13; //13 hours is equivalent to 1 P.M.
         boolean isItRaining = false;
         System.out.println("I'm hungry, let's eat something.");
         if (7 < hour24Format && hour24Format < 11) {
